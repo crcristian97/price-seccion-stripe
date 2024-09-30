@@ -22,3 +22,7 @@ This is a pricing section for a website, built with Next.js, styled using Tailwi
 ```bash
 git clone https://github.com/yourusername/price-section-nextjs.git
 cd price-section-nextjs
+
+# Test
+Go to https://price-seccion-stripe.vercel.app/pricing, select a price and completed with this data:
+https://docs.stripe.com/testing
